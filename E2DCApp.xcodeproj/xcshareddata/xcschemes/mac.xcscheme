@@ -55,12 +55,21 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
+            BlueprintIdentifier = "70CDC63427F1689400CD3782"
+            BuildableName = "E2DC.app"
+            BlueprintName = "E2DC (iOS)"
+            ReferencedContainer = "container:E2DCApp.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
             BlueprintIdentifier = "70CDC63A27F1689400CD3782"
             BuildableName = "E2DC.app"
             BlueprintName = "E2DC (macOS)"
             ReferencedContainer = "container:E2DCApp.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </MacroExpansion>
    </LaunchAction>
    <ProfileAction
       buildConfiguration = "Release"
